@@ -1,0 +1,15 @@
+# Exemple de l'article
+# nb_sources nb_obj nb_fait
+4 2 4
+#liens entre les sources et les faits
+#Exemple du papier
+#source 1 :
+2,3
+1,4
+1,4
+2,4
+-
+#liens entre les faits et les objets
+#objet 1 :
+1,2
+3,4
